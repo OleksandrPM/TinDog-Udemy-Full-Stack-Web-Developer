@@ -1,2 +1,2 @@
-# TinDog-Udemy-Full-Stack-Web-Developer
-The learning landing project in the Udemy Full-Stack Web Development course`s program. The theme - Bootstrap.
+# TinDog
+This is the learning landing project in the Udemy Full-Stack Web Development course program. The theme of the project is Bootstrap.
